@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clase1DispMov</string>
+    <string name="peso">Cual es tu Peso</string>
+    <string name="altura">Cual es tu Altura</string>
+    <string name="imc">Calculadora Imc</string>
+    <string name="Calculadora">Calculadora</string>
+    <string name="Conversor">Conversor</string>
+</resources>
